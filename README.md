@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey i'm front-end developer<br>My professions are HTMl, CSS, Javascript and Vue.js<br>Feel free to contact with me by discord or Linkedin
+Hey i'm front-end developer<br>My professions are HTML, CSS, Javascript and Vue.js<br>Feel free to contact with me by discord or Linkedin
 
 
 ## 🌐 Socials:
